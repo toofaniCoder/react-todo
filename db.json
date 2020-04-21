@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "milk",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "vodka",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "eating",
+      "completed": true,
+      "id": 3
+    }
+  ]
+}
